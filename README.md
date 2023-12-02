@@ -135,4 +135,4 @@ def selesai():
 menu()```
 
 #hasil setelah menginputkan data
-![gambar
+![gambar][aa.png]
